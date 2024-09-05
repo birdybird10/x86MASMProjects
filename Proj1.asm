@@ -2,9 +2,6 @@ TITLE Project 1     (Proj1_majorsal.asm)
 
 ; Author: Allison Majors
 ; Last Modified: 07/10/2024
-; OSU email address: majorsal@oregonstate.edu
-; Course number/section:   CS271 Section 400
-; Project Number:  1               Due Date: 07/14/2024
 ; Description: This program displays my name and the program title on the output screen and
 ;				prompts the user to enter three numbers (A, B, C). The program verifies that
 ;				these numbers are in strictly descending order. The sums and differences 
