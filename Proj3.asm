@@ -2,9 +2,6 @@ TITLE Project 3    (Proj3_majorsal.asm)
 
 ; Author: Allison Majors
 ; Last Modified: 07/19/2024
-; OSU email address: majorsal@oregonstate.edu
-; Course number/section:   CS271 Section 400
-; Project Number:  3               Due Date: 07/21/2024
 ; Description:	This program first displays the programmer's name, the program title, and overview of
 ;				the game to be played. The game works by the user being repeatedly asked to enter a 
 ;				negative number. If the number entered is not within the range [-200,-100] or [-50,-1], 
