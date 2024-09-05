@@ -2,9 +2,6 @@ TITLE Project 4     (Proj4_majorsal.asm)
 
 ; Author: Allison Majors
 ; Last Modified: 7/25/2024
-; OSU email address: majorsal@oregonstate.edu
-; Course number/section:   CS271 Section 400
-; Project Number:  4               Due Date: 07/28/2024
 ; Description: This program first displays the programmer's name, the program title,
 ;			   the overview of the game, and extra credit implementations. The user 
 ;			   is then asked to enter a number [1...4000]. The program validates that 
