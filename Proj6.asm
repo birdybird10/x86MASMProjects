@@ -2,9 +2,6 @@ TITLE Project 6     (Proj6_majorsal.asm)
 
 ; Author: Allison Majors
 ; Last Modified: 8/14/2024
-; OSU email address: majorsal@oregonstate.edu
-; Course number/section:   CS271 Section 400
-; Project Number: 6                Due Date: 8/16/2024
 ; Description: This program prompts the user to enter 10 signed integers.
 ;			  Each user input is read as a string of ASCII digits and is
 ;			  converted to a SDWORD (using the mGetString macro and readVal
