@@ -2,9 +2,6 @@ TITLE Project 5     (Proj5_majorsal.asm)
 
 ; Author: Allison Majors
 ; Last Modified: 8/1/2024
-; OSU email address: majorsal@oregonstate.edu
-; Course number/section:   CS271 Section 400
-; Project Number: 5                Due Date: 8/11/2024
 ; Description: This program populates an array of ARRAYSIZE elements with random numbers in
 ;			   the range [LO..HI]. The unsorted array is printed, then the array is sorted.
 ;			   Then, the median of the array is found and printed to the screen. Then, the
